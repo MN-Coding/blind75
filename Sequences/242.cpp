@@ -1,7 +1,7 @@
 /*
 Problem: 242. Valid Anagram
 Time Complexity = O(n)
-Space Complexity = O(n)
+Space Complexity = O(1)
 */
 class Solution {
 public:
