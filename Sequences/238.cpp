@@ -1,7 +1,7 @@
 /*
 Problem: 238. Product of Array Except Self
 Time Complexity: O(n)
-Space Complexity: 
+Space Complexity: O(n)
 */
 
 class Solution {
