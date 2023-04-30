@@ -1,7 +1,7 @@
 /*
 Problem: 15. 3Sum
-Time Complexity = 
-Space Complexity = 
+Time Complexity = O(n^2)
+Space Complexity = O(n)
 */
 
 class Solution {
